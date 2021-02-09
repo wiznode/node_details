@@ -1,19 +1,19 @@
 {
     "representative": {
         "logo": {
-            "logo_256": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
-            "logo_1024": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
-            "logo_svg": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png"
+            "logo_256": "https://raw.githubusercontent.com/wiznode/node_details/master/wiz_1.png",
+            "logo_1024": "https://raw.githubusercontent.com/wiznode/node_details/master/wiz_1.png",
+            "logo_svg": "https://raw.githubusercontent.com/wiznode/node_details/master/wiz_1.png"
         },
         "media": {
             "steemit": "",
-            "twitter": "https://twitter.com/TranscranialSol/",
-            "youtube": "https://www.youtube.com/channel/UCeOv5tg_S168TX-Eqqse_iw",
+            "twitter": "https://twitter.com/wiznode/",
+            "youtube": "",
             "facebook": "",
             "github": "https://github.com/wiznode",
             "reddit": "",
             "keybase": "",
-            "telegram": "",
+            "telegram": "https://t.me/wiznode",
             "wechat": ""
         }
     },
